@@ -1,0 +1,4 @@
+2016-06-06 23:58:57 [INFO][demo.java.daemon.DemoDaemon][demo.java.daemon.DemoDaemon:17] - Start Main Thread main.
+2016-06-06 23:58:57 [INFO][demo.java.daemon.DaemonThread][demo.java.daemon.DaemonThread:45] - Start DaemonThread Thread-0.
+2016-06-06 23:59:37 [INFO][demo.java.daemon.DemoDaemon][demo.java.daemon.DemoDaemon:17] - Start Main Thread main.
+2016-06-06 23:59:37 [INFO][demo.java.daemon.DaemonThread][demo.java.daemon.DaemonThread:46] - Start DaemonThread DaemonThread.
