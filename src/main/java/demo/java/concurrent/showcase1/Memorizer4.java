@@ -7,6 +7,7 @@ import java.util.concurrent.*;
  * Created by raist on 2016/6/16.
  *
  */
+
 class Memorizer4<A,V> implements Computable<A,V> {
 
     private final ConcurrentMap<A,Future<V>> cache = new ConcurrentHashMap<A, Future<V>>();
